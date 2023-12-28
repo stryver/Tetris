@@ -55,6 +55,5 @@ int main() {
         }
         renderer.display();
     }
-
     return 0;
 }

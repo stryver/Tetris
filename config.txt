@@ -1,4 +1,4 @@
 music:50
 effect:100
-highscore:160
+highscore:1900
 projection:true

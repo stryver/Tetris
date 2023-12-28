@@ -53,6 +53,11 @@ long ScoreManager::getScore() {
 
 void ScoreManager::resetScore() {
     this->score = 0;
+    this->score = 0;
+    this->level = 1;
+    this->fourLines = false;
+    this->prevLevelScore = 1;
+    this->nextLevelScore = 1000;
 }
 
 int ScoreManager::getLevel() {
